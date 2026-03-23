@@ -1,4 +1,4 @@
-module protos
+module github.com/Aichepsh/sso-proto
 
 go 1.25
 
